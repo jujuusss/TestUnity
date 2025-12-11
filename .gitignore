@@ -1,0 +1,122 @@
+# =======================================
+# Unity
+# =======================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Unity cache
+[Ll]ibrary/PackageCache/
+Assets/StreamingAssets/aa/
+
+# Unity Collaborate
+.collab/
+
+# Asset meta data should be ignored when the corresponding asset is deleted
+*.pidb.meta
+
+# Crash reports
+sysinfo.txt
+
+# =======================================
+# Unity Asset Store tools
+# =======================================
+AssetStoreTools*
+
+# =======================================
+# VSCode / Rider / Visual Studio
+# =======================================
+
+.vscode/
+.idea/
+*.sln.iml
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+.redist/
+
+# =======================================
+# OS-specific
+# =======================================
+
+[Dd]esktop.ini
+[Tt]humbs.db
+.DS_Store
+._*
+*~
+
+# =======================================
+# Build artifacts
+# =======================================
+
+*.apk
+*.aab
+*.app
+*.exe
+*.x86
+*.x86_64
+*.ipa
+
+# =======================================
+# Unity Cloud Build
+# =======================================
+
+/UnityCloud/
+
+# =======================================
+# Git LFS
+# =======================================
+
+# Textures
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+
+# Models
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+
+# Audio
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+
+# Vidéo
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+
+# Fichiers Unity importants mais lourds
+*.prefab filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text     
+*.asset filter=lfs diff=lfs merge=lfs -text
+
+# Project Settings
+ProjectSettings/*.asset filter=lfs diff=lfs merge=lfs -text
+
+# Packages
+Packages/**/*.json filter=lfs diff=lfs merge=lfs -text
+
+# =======================================
+# Exceptions pour suivre Bowling
+# =======================================
+
+!Assets/Bowling/
+!Assets/Bowling/**
