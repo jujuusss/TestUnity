@@ -179,6 +179,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (217)
@@ -1472,6 +1476,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (233)
@@ -1541,6 +1549,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (45)
@@ -1683,6 +1695,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (10)
@@ -1752,6 +1768,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (173)
@@ -2188,6 +2208,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (54)
@@ -2442,6 +2466,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (177)
@@ -2511,6 +2539,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (178)
@@ -2580,6 +2612,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (135)
@@ -2667,6 +2707,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (12)
@@ -2924,6 +2968,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (109)
@@ -3195,6 +3243,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (227)
@@ -3340,6 +3392,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (120)
@@ -3820,6 +3876,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (219)
@@ -3889,6 +3949,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (128)
@@ -4212,6 +4276,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (199)
@@ -4673,6 +4741,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (137)
@@ -5195,6 +5267,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (179)
@@ -5427,6 +5503,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (108)
@@ -5711,6 +5791,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (97)
@@ -5892,6 +5976,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (189)
@@ -6034,6 +6122,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (243)
@@ -6103,6 +6195,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (144)
@@ -6462,6 +6558,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (240)
@@ -6861,6 +6961,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (21)
@@ -6930,6 +7034,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (201)
@@ -6999,6 +7107,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (184)
@@ -7068,6 +7180,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (118)
@@ -7580,6 +7696,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (156)
@@ -7649,6 +7769,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (163)
@@ -7754,6 +7878,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (207)
@@ -7972,6 +8100,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (61)
@@ -8041,6 +8173,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (73)
@@ -8274,6 +8410,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (234)
@@ -8848,6 +8988,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (8)
@@ -9251,6 +9395,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (37)
@@ -9320,6 +9468,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (82)
@@ -9389,6 +9541,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (116)
@@ -9543,6 +9699,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (14)
@@ -9685,6 +9845,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (26)
@@ -9841,6 +10005,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (132)
@@ -9910,6 +10078,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (237)
@@ -9979,6 +10151,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (49)
@@ -10048,6 +10224,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (25)
@@ -10117,6 +10297,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (127)
@@ -10186,6 +10370,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (113)
@@ -10255,6 +10443,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (197)
@@ -10709,6 +10901,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (101)
@@ -10814,6 +11010,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (102)
@@ -11015,6 +11215,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (214)
@@ -11089,7 +11293,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: d0817f74fdbcd5d42b78e08386127579, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11196,6 +11400,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (229)
@@ -11409,6 +11617,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (215)
@@ -11478,6 +11690,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (56)
@@ -11623,6 +11839,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (103)
@@ -11692,6 +11912,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (158)
@@ -11761,6 +11985,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (68)
@@ -12164,6 +12392,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (92)
@@ -12306,6 +12538,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (27)
@@ -12448,6 +12684,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (99)
@@ -13049,6 +13289,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (239)
@@ -13230,6 +13474,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (242)
@@ -13390,6 +13638,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (154)
@@ -13532,6 +13784,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (80)
@@ -13674,6 +13930,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (205)
@@ -13743,6 +14003,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (125)
@@ -14155,6 +14419,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (63)
@@ -14293,6 +14561,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (223)
@@ -14474,6 +14746,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (203)
@@ -15145,6 +15421,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (228)
@@ -15402,6 +15682,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (51)
@@ -15471,6 +15755,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (213)
@@ -15540,6 +15828,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (46)
@@ -15827,6 +16119,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (200)
@@ -15972,6 +16268,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (168)
@@ -16332,6 +16632,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (218)
@@ -16474,6 +16778,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (238)
@@ -16619,6 +16927,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (204)
@@ -16955,6 +17267,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (130)
@@ -17024,6 +17340,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (111)
@@ -17093,6 +17413,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (224)
@@ -17391,6 +17715,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (106)
@@ -17602,6 +17930,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (78)
@@ -17820,6 +18152,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (59)
@@ -17983,6 +18319,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (185)
@@ -18456,6 +18796,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (209)
@@ -18594,6 +18938,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (202)
@@ -18663,6 +19011,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (121)
@@ -19246,6 +19598,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (149)
@@ -19315,6 +19671,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (139)
@@ -19758,6 +20118,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (225)
@@ -19827,6 +20191,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (122)
@@ -20045,6 +20413,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (44)
@@ -20299,6 +20671,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (220)
@@ -20662,6 +21038,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (32)
@@ -20731,6 +21111,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (35)
@@ -20912,6 +21296,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (235)
@@ -20981,6 +21369,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (230)
@@ -21192,6 +21584,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (175)
@@ -21900,6 +22296,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (222)
@@ -22038,6 +22438,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (195)
@@ -22292,6 +22696,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (40)
@@ -22548,6 +22956,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (182)
@@ -22617,6 +23029,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (42)
@@ -22762,6 +23178,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (87)
@@ -22943,6 +23363,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (210)
@@ -23309,6 +23733,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (208)
@@ -23378,6 +23806,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (232)
@@ -23901,6 +24333,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (190)
@@ -24100,6 +24536,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (244)
@@ -24418,6 +24858,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (30)
@@ -25404,6 +25848,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (187)
@@ -25491,6 +25939,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81c6a0770f01e434c9a9c102bc1bd7b3, type: 2}
     - target: {fileID: 919132149155446097, guid: ea0d27c3c2662c44484ebfb82a28f967, type: 3}
       propertyPath: m_Name
       value: star_cable_part (212)
